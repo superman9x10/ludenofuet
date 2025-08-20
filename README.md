@@ -13,6 +13,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/van-ghi-7a8bb8264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/van-ghi-7a8bb8264" height="30" width="40" /></a>
 <a href="https://www.facebook.com/vanghi01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/vanghi01/" height="30" width="40" /></a>
+<a href="https://ludenofuet.itch.io/" target="_blank"><img align="center" src="https://static.itch.io/images/itchio-textless-white.svg" alt="itch.io" height="30" width="40" style="background-color:#fa5c5c; border-radius:6px;"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
