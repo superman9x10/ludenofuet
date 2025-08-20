@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ghi</h1>
-<h3 align="center">Hi, I’m Ghi 👋 A Unity Developer who loves turning ideas into fun and playable games. Over the past 2+ years, I’ve worked on several mobile games released on Google Play and the App Store – from puzzle and casual titles to monster battle games. I enjoy building gameplay, polishing performance, and working with designers, artists, and marketers to bring a game to life. Always curious and open to learning new tech, I’m excited to connect with fellow developers, game enthusiasts, and anyone passionate about creating great player experiences 🚀</h3>
+<h3 align="left">Hi, I’m Ghi 👋 A Unity Developer who loves turning ideas into fun and playable games. Over the past 2+ years, I’ve worked on several mobile games released on Google Play and the App Store – from puzzle and casual titles to monster battle games. I enjoy building gameplay, polishing performance, and working with designers, artists, and marketers to bring a game to life. Always curious and open to learning new tech, I’m excited to connect with fellow developers, game enthusiasts, and anyone passionate about creating great player experiences 🚀</h3>
 
 - 🔭 I’m currently working on **Tower Dice: Endless Siege**
 
